@@ -41,7 +41,7 @@ const productData: Product[] = [
         desc: "Gold Linked Crystal Accent",
         rating: 5,
         price: 50.00,
-        originalPrice: 120.00
+        originalPrice: 130.00
     },
 
     {
