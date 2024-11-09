@@ -44,7 +44,7 @@ const Testimonials = () => {
         {/* Existing testimonials */}
         <div className="h-auto p-6 rounded-2xl mx-auto bg-white relative max-md:shadow-md">
           <div>
-            <img src="/images/facebook.webp" className="w-10 h-10 rounded-full" alt="Mark Zuckerberg" />
+            <img src="/mark.webp" className="w-10 h-10 rounded-full" alt="Mark Zuckerberg" />
             <h4 className="text-gray-800 text-sm whitespace-nowrap font-bold mt-3">Mark Zuckerberg</h4>
             <p className="mt-0.5 text-xs text-gray-600">Co-founder of Facebook</p>
           </div>
